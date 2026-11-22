@@ -1,0 +1,73 @@
+pregunta,tipo,id_esperado,conjunto
+¿Cuántos metros puedo tirar de cable UTP hasta la toma?,en_base,C01,dev
+Diferencias entre categoría 5e y 6A,en_base,C02,dev
+¿Cómo se llama el panel donde se terminan los cables del rack?,en_base,C03,dev
+Orden de los hilos en 568B,en_base,C05,dev
+¿Qué es un punto de acceso comparado con un router?,en_base,W06,dev
+"Frecuencias 2.4 y 5 GHz, ¿cuál es mejor?",en_base,W01,dev
+¿Qué significa 802.11be?,en_base,W04,dev
+¿Qué canales uso en el wifi de 2.4 GHz para no interferir?,en_base,W05,dev
+"¿Cuál fibra sirve para largas distancias, monomodo o multimodo?",en_base,F01,dev
+¿Cómo se hace un empalme de fibra y cuál tiene menos pérdida?,en_base,F04,dev
+¿Qué es el módulo SFP de un switch?,en_base,F05,dev
+¿Cómo separo la red de los alumnos y la de los administrativos?,en_base,S01,dev
+¿Por qué Telnet es inseguro?,en_base,S06,dev
+¿Qué es la lista de reglas que permite o niega tráfico en un router?,en_base,S07,dev
+¿Cuál es la longitud máxima de un cable coaxial RG-6?,sin_info,,dev
+¿Qué es PoE y cuántos watts entrega?,sin_info,,dev
+¿Qué es el estándar 802.11ah?,sin_info,,dev
+¿Cómo se calcula el presupuesto de potencia de un enlace de fibra?,sin_info,,dev
+¿Qué es un ataque de denegación de servicio distribuido?,sin_info,,dev
+¿Cuál es la mejor laptop para estudiar?,fuera_alcance,,dev
+¿Cómo se prepara el arroz con leche?,fuera_alcance,,dev
+¿Quién descubrió América?,fuera_alcance,,dev
+¿Cómo se programa en Java?,fuera_alcance,,dev
+¿Qué ejercicios hago para fortalecer la espalda?,fuera_alcance,,dev
+¿Hasta cuántos metros llega un cable de cobre en una red cableada?,en_base,C01,dev
+¿Qué categoría de cable es mejor para 10 Gigabit?,en_base,C02,dev
+¿Cuál es la diferencia entre un cable con malla y uno sin ella?,en_base,C04,dev
+¿Cómo se llama la interferencia entre pares de un cable?,en_base,C08,dev
+¿Qué aparato se usa para validar que un cable cumple su categoría?,en_base,C09,dev
+¿Qué quiere decir 6 GHz en las redes inalámbricas?,en_base,W02,dev
+¿Qué generaciones de wifi existen y a qué estándar corresponde cada una?,en_base,W03,dev
+¿Qué ventajas tiene WPA3?,en_base,W10,dev
+¿Cuál es el nombre de la red wifi que aparece en mi celular?,en_base,W07,dev
+¿Cómo sé si debo usar fibra en vez de cable de cobre?,en_base,F09,dev
+¿Qué es el OTDR?,en_base,F06,dev
+¿Por qué se ensucian y fallan los conectores ópticos?,en_base,F08,dev
+¿Qué es un cortafuegos?,en_base,S02,dev
+¿Qué es una conexión privada cifrada a través de internet?,en_base,S08,dev
+¿Qué es el roaming entre puntos de acceso?,sin_info,,dev
+¿Cómo se configura un switch administrable por consola?,sin_info,,dev
+¿Qué es un repetidor wifi y cómo se instala?,sin_info,,dev
+¿Qué es un sistema de detección de intrusos?,sin_info,,dev
+¿Qué diferencia hay entre cable Cat 7 y Cat 8?,sin_info,,dev
+¿Cuál es la capital de Japón?,fuera_alcance,,dev
+¿Cómo se hace una tabla en Excel?,fuera_alcance,,dev
+¿Qué películas de terror están de moda?,fuera_alcance,,dev
+¿Cómo se cuida una planta de aguacate?,fuera_alcance,,dev
+¿Cuánto cuesta rentar un departamento?,fuera_alcance,,dev
+¿Qué partes forman una instalación de cableado estructurado?,en_base,C06,test
+¿Por qué los cables salen desde un punto central hacia cada oficina?,en_base,C07,test
+¿Qué tanto puedo doblar un cable de red sin dañarlo?,en_base,C10,test
+¿Cómo ayudan las varias antenas a que el wifi sea más rápido?,en_base,W08,test
+¿Cómo atiende el wifi 6 a muchos dispositivos al mismo tiempo?,en_base,W09,test
+¿Por qué la señal de luz se debilita en la fibra?,en_base,F02,test
+¿Cuál es la diferencia entre un conector LC y uno SC?,en_base,F03,test
+"¿Qué tipos de fibra multimodo hay, como OM3 y OM4?",en_base,F07,test
+¿Por qué no se puede conectar un conector APC con uno UPC?,en_base,F10,test
+¿Qué características debe tener una buena contraseña para un router?,en_base,S03,test
+¿Cómo se le pide autenticación a un equipo antes de dejarlo usar el puerto de la red?,en_base,S04,test
+¿Cómo evito que conecten una computadora ajena a un puerto del switch?,en_base,S05,test
+¿Cómo reconozco un correo falso que quiere robar mi contraseña?,en_base,S09,test
+¿Por qué cada usuario debe tener solo los permisos que necesita?,en_base,S10,test
+¿Cómo se instala un access point en el techo?,sin_info,,test
+¿Qué es el cifrado AES?,sin_info,,test
+¿Qué es una red mesh?,sin_info,,test
+¿Cuánto cuesta instalar fibra óptica en una casa?,sin_info,,test
+¿Qué es el cable coaxial y dónde se usa?,sin_info,,test
+¿Cuál es el río más largo del mundo?,fuera_alcance,,test
+¿Cómo se hacen unos tacos al pastor?,fuera_alcance,,test
+¿Cómo se calcula el porcentaje de una cantidad?,fuera_alcance,,test
+¿Cómo se aprende a tocar la guitarra?,fuera_alcance,,test
+¿Qué consejos hay para dormir mejor?,fuera_alcance,,test
